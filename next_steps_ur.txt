@@ -1,0 +1,10 @@
+اگلے عملی اقدامات:
+1) Flutter project بنائیں اور فراہم کردہ main.dart شامل کریں۔
+2) Supabase test project بنائیں؛ schema.sql کو security review کے بعد چلائیں۔
+3) authentication، role-based admin policies اور server-side validation مکمل کریں۔
+4) CNIC کے لیے encrypted storage، محدود رسائی، retention/deletion policy اور consent شامل کریں۔
+5) Easypaisa merchant onboarding اور official payment gateway integration حاصل کریں؛ client-side ادائیگی کو خود سے verified نہ سمجھیں۔
+6) اردو/انگریزی ترجمے، push notifications، WhatsApp messaging provider، upload storage، audit logs، backups اور monitoring شامل کریں۔
+7) حقیقی ڈیٹا سے پہلے test users بنائیں؛ RLS اور admin roles کے automated tests کریں۔
+8) قانونی رجسٹریشن/نام، privacy policy، terms، donation policy اور app-store listing تیار کریں۔
+9) Google Play Console اور Apple Developer اکاؤنٹس سے test builds جاری کریں۔
